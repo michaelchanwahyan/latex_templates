@@ -1,4 +1,4 @@
-This repository mirrors the LaTeX templates for writing up slides for presentations, notes (or reports articles) and poster provided by Prof. S. Boyd.
+This repository mirrors the LaTeX templates for writing up slides for presentations, notes (or reports articles) and posters provided by [Prof. S. Boyd](http://web.stanford.edu/~boyd/).
 
 The original templates could be found from his FTP site "/class/ee364b/latex_templates"
 
